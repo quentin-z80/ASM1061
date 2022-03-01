@@ -1,0 +1,15 @@
+The differences are at the following offsets:
+
+0x0000001c
+0x00000020
+0x00000024
+
+...with the following corresponding values for IDE:
+07
+01
+03
+
+and the following for AHCI:
+04
+06
+00

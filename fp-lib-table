@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ASM1061")(type "KiCad")(uri "${KIPRJMOD}/libraries/ASM1061")(options "")(descr ""))
+)
