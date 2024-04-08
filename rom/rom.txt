@@ -13,3 +13,5 @@ and the following for AHCI:
 04
 06
 00
+
+source: mockingbird, https://winraid.level1techs.com/t/discussion-firmware-for-asmedia-sata-6g-controllers/30439/205
